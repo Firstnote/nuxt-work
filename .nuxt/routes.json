@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/qiaokou/qiaokou/projectfile/Firstnote/my-study-record/modules-3/three/code/my-nuxt/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/qiaokou/qiaokou/projectfile/Firstnote/my-study-record/modules-3/three/code/my-nuxt/pages/home",
+        "_name": "_2223373c"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/qiaokou/qiaokou/projectfile/Firstnote/my-study-record/modules-3/three/code/my-nuxt/pages/login",
+        "_name": "_227bf8ac"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/qiaokou/qiaokou/projectfile/Firstnote/my-study-record/modules-3/three/code/my-nuxt/pages/login",
+        "_name": "_227bf8ac"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/qiaokou/qiaokou/projectfile/Firstnote/my-study-record/modules-3/three/code/my-nuxt/pages/profile",
+        "_name": "_4c874e2c"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/qiaokou/qiaokou/projectfile/Firstnote/my-study-record/modules-3/three/code/my-nuxt/pages/settings",
+        "_name": "_54baf000"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/qiaokou/qiaokou/projectfile/Firstnote/my-study-record/modules-3/three/code/my-nuxt/pages/editor",
+        "_name": "_2077408a"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/qiaokou/qiaokou/projectfile/Firstnote/my-study-record/modules-3/three/code/my-nuxt/pages/article",
+        "_name": "_33519179"
+      }
+    ],
+    "_name": "_2c461a47"
+  }
+]
